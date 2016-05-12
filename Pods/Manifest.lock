@@ -1,0 +1,22 @@
+PODS:
+  - Bolts/Tasks (1.7.0)
+  - Parse (1.13.0):
+    - Bolts/Tasks (~> 1.6)
+  - RxCocoa (2.4):
+    - RxSwift (~> 2.4)
+  - RxSwift (2.4)
+
+DEPENDENCIES:
+  - Parse
+  - RxCocoa (~> 2.0)
+  - RxSwift (~> 2.0)
+
+SPEC CHECKSUMS:
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  Parse: f51c24d2feb412e4b2d6cc73d37cb24e8d0089bc
+  RxCocoa: 7d6cd877de99f5640306b3d6cf87f580c1d91b61
+  RxSwift: 67b9ef4e8b34fb394e200e754c6a09cc16559f94
+
+PODFILE CHECKSUM: 626841574b78f474f829bb387b60ffb7d8a0e28a
+
+COCOAPODS: 1.0.0.beta.6
